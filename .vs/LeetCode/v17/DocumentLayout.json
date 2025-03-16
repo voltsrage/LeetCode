@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\DevOps\\DotNet\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\arrays\\hasduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\arrays\\hasduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\twopointers\\threesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\twopointers\\threesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\twopointers\\threesumbrute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\twopointers\\threesumbrute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\arrays\\isanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\arrays\\isanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\linkedlist\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HasDuplicate.cs",
-              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\HasDuplicate.cs",
-              "RelativeDocumentMoniker": "LeetCode\\Arrays\\HasDuplicate.cs",
-              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\HasDuplicate.cs",
-              "RelativeToolTip": "LeetCode\\Arrays\\HasDuplicate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:24:07.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IsAnagram.cs",
-              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\IsAnagram.cs",
-              "RelativeDocumentMoniker": "LeetCode\\Arrays\\IsAnagram.cs",
-              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\IsAnagram.cs",
-              "RelativeToolTip": "LeetCode\\Arrays\\IsAnagram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:41:35.433Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ThreeSum.cs",
-              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\TwoPointers\\ThreeSum.cs",
-              "RelativeDocumentMoniker": "LeetCode\\TwoPointers\\ThreeSum.cs",
-              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\TwoPointers\\ThreeSum.cs",
-              "RelativeToolTip": "LeetCode\\TwoPointers\\ThreeSum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ListNode.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ListNode.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinkedList\\ListNode.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ListNode.cs",
+              "RelativeToolTip": "LeetCode\\LinkedList\\ListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:41:10.727Z"
+              "WhenOpened": "2025-03-16T17:47:42.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode\\Program.cs",
-              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Program.cs",
-              "RelativeToolTip": "LeetCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ReverseLinkedList.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "RelativeToolTip": "LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:40:42.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThreeSumBrute.cs",
-              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\TwoPointers\\ThreeSumBrute.cs",
-              "RelativeDocumentMoniker": "LeetCode\\TwoPointers\\ThreeSumBrute.cs",
-              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\TwoPointers\\ThreeSumBrute.cs",
-              "RelativeToolTip": "LeetCode\\TwoPointers\\ThreeSumBrute.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:35:13.287Z"
+              "WhenOpened": "2025-03-16T17:47:04.849Z",
+              "EditorCaption": ""
             }
           ]
         }

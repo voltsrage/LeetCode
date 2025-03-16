@@ -8,6 +8,20 @@ namespace LeetCode.Stacks
 {
     public class ValidParentheses
     {
+        /// <summary>
+        /// The logic is to validate if a string of parentheses is valid
+        /// We will use a stack to store the opening symbols
+        /// We will use a dictionary to store the symbol pairs
+        /// We will iterate through the input string
+        /// If the current character is an opening symbol, we will push it onto the stack
+        /// If the current character is a closing symbol, we will pop the stack and compare the symbol pairs
+        /// If the stack is empty or the top of the stack doesn't match the current symbol, we will return false
+        /// If the current character is neither an opening nor closing symbol, we will return false
+        /// If the stack is empty, all symbols have pairs, so we will return true
+        /// The time complexity is O(n), where n is the length of the input string
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public static bool Execute(string input)
         {
             // If the input length is odd, it can't be valid because there will be at least one symbol without a pair
