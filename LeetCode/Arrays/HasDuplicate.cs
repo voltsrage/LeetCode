@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode.Arrays
 {
-    public  class HasDuplicate
+    public class HasDuplicate
     {
         public static bool Execute(int[] nums)
         {
