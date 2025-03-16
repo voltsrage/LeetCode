@@ -8,6 +8,17 @@ namespace LeetCode.SlidingWindow
 {
     public class BestTimeToBuyandSellStock
     {
+        /// <summary>
+        /// The logic is to find the maximum profit that can be made by buying and selling a stock
+        /// We will keep track of the minimum price and the maximum profit
+        /// We will iterate through the prices array
+        /// If the current price is less than the minimum price, we will update the minimum price
+        /// If the current price is greater than the minimum price, we will calculate the profit and update the maximum profit
+        /// We will return the maximum profit
+        /// The time complexity is O(n), where n is the length of the prices array
+        /// </summary>
+        /// <param name="prices"></param>
+        /// <returns></returns>
         public int Execute(int[] prices)
         {
             // Set the max profit to 0

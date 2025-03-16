@@ -6,8 +6,22 @@ using System.Threading.Tasks;
 
 namespace LeetCode.BinarySearch
 {
-    public class SearchinRotatedSortedArray
+    public class SearchInRotatedSortedArray
     {
+        /// <summary>
+        /// The logic is to search for a target element in a rotated sorted array
+        /// We will use binary search to find the target element
+        /// If the left element is less than or equal to the middle element, the left side is sorted
+        /// If the target is between the left and middle elements, search the left side
+        /// Otherwise, search the right side
+        /// If the left side is not sorted, the right side must be sorted
+        /// If the target is between the middle and right elements, search the right side
+        /// Otherwise, search the left side
+        /// The time complexity is O(log n), where n is the number of elements in the array
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="target"></param>
+        /// <returns></returns>
         public static int Execute(int[] array, int target)
         { 
             if(array == null || array.Length == 0)
