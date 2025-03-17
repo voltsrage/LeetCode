@@ -8,6 +8,18 @@ namespace LeetCode.Arrays
 {
     public class TopKFrequent
     {
+        /// <summary>
+        /// The logic behind this solution is to find the k most frequent elements in an array
+        /// We will use a dictionary to store the frequency of each number
+        /// We will create a bucket array where the index represents frequency
+        /// We will iterate through the dictionary and add each number to its corresponding frequency bucket
+        /// We will iterate through the buckets from highest frequency to lowest and add the numbers to the result list
+        /// We will return the k most frequent elements
+        /// The time complexity is O(n), where n is the length of the input array
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="k"></param>
+        /// <returns></returns>
         public static int[] Execute(int[] nums, int k)
         {
             var countDict = new Dictionary<int, int>();

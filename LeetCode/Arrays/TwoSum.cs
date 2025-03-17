@@ -8,6 +8,18 @@ namespace LeetCode.Arrays
 {
     public class TwoSum
     {
+        /// <summary>
+        /// The logic behind this solution is to find two numbers in an array that add up to a target number
+        /// We will use a dictionary to store numbers and their indices
+        /// We will iterate through the array
+        /// For each number, we will calculate the complement needed to reach the target
+        /// If the complement exists in the dictionary, we've found a solution
+        /// We will return the indices of the two numbers
+        /// The time complexity is O(n), where n is the length of the input array
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="target"></param>
+        /// <returns></returns>
         public static int[] Execute(int[] nums, int target)
         {
             // Initialize array to store the result indices
