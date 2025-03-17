@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\DevOps\\DotNet\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\arrays\\longestconsecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\arrays\\longestconsecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\arrays\\productexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\arrays\\productexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\arrays\\isanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\arrays\\isanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\binarysearch\\searchinrotatedsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\binarysearch\\searchinrotatedsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\binarysearch\\minimuminrotatedsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\binarysearch\\minimuminrotatedsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\linkedlist\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\linkedlist\\mergetwosortedlinkedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\mergetwosortedlinkedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\slidingwindow\\besttimetobuyandsellstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\slidingwindow\\besttimetobuyandsellstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|c:\\devops\\dotnet\\leetcode\\leetcode\\stacks\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0270FF8B-5162-4F33-981F-A60975FEDCD2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\stacks\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongestConsecutive.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\LongestConsecutive.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Arrays\\LongestConsecutive.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\LongestConsecutive.cs",
+              "RelativeToolTip": "LeetCode\\Arrays\\LongestConsecutive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:21:28.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductExceptSelf.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\ProductExceptSelf.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Arrays\\ProductExceptSelf.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\ProductExceptSelf.cs",
+              "RelativeToolTip": "LeetCode\\Arrays\\ProductExceptSelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:33:31.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsAnagram.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\IsAnagram.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Arrays\\IsAnagram.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Arrays\\IsAnagram.cs",
+              "RelativeToolTip": "LeetCode\\Arrays\\IsAnagram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:31:39.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchInRotatedSortedArray.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\BinarySearch\\SearchInRotatedSortedArray.cs",
+              "RelativeDocumentMoniker": "LeetCode\\BinarySearch\\SearchInRotatedSortedArray.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\BinarySearch\\SearchInRotatedSortedArray.cs",
+              "RelativeToolTip": "LeetCode\\BinarySearch\\SearchInRotatedSortedArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:29:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinimumInRotatedSortedArray.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\BinarySearch\\MinimumInRotatedSortedArray.cs",
+              "RelativeDocumentMoniker": "LeetCode\\BinarySearch\\MinimumInRotatedSortedArray.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\BinarySearch\\MinimumInRotatedSortedArray.cs",
+              "RelativeToolTip": "LeetCode\\BinarySearch\\MinimumInRotatedSortedArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:29:23.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BestTimeToBuyandSellStock.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\SlidingWindow\\BestTimeToBuyandSellStock.cs",
+              "RelativeDocumentMoniker": "LeetCode\\SlidingWindow\\BestTimeToBuyandSellStock.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\SlidingWindow\\BestTimeToBuyandSellStock.cs",
+              "RelativeToolTip": "LeetCode\\SlidingWindow\\BestTimeToBuyandSellStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:28:43.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidParentheses.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Stacks\\ValidParentheses.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Stacks\\ValidParentheses.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\Stacks\\ValidParentheses.cs",
+              "RelativeToolTip": "LeetCode\\Stacks\\ValidParentheses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:27:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MergeTwoSortedLinkedLists.cs",
+              "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\MergeTwoSortedLinkedLists.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinkedList\\MergeTwoSortedLinkedLists.cs",
+              "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\MergeTwoSortedLinkedLists.cs",
+              "RelativeToolTip": "LeetCode\\LinkedList\\MergeTwoSortedLinkedLists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:19:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ListNode.cs",
               "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ListNode.cs",
               "RelativeDocumentMoniker": "LeetCode\\LinkedList\\ListNode.cs",
               "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ListNode.cs",
               "RelativeToolTip": "LeetCode\\LinkedList\\ListNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:47:42.543Z"
+              "WhenOpened": "2025-03-16T18:19:39.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ReverseLinkedList.cs",
               "DocumentMoniker": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ReverseLinkedList.cs",
               "RelativeDocumentMoniker": "LeetCode\\LinkedList\\ReverseLinkedList.cs",
               "ToolTip": "C:\\DevOps\\DotNet\\LeetCode\\LeetCode\\LinkedList\\ReverseLinkedList.cs",
               "RelativeToolTip": "LeetCode\\LinkedList\\ReverseLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:47:04.849Z",
+              "WhenOpened": "2025-03-16T18:19:34.342Z",
               "EditorCaption": ""
             }
           ]

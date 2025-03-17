@@ -8,6 +8,16 @@ namespace LeetCode.Arrays
 {
     public class LongestConsecutive
     {
+        /// <summary>
+        /// The logic behind this solution is to first turn the input array into a hash set
+        /// We will then iterate through the hash set and check if the current number is the start of a new streak
+        /// If it is, we will increment the current number and the streak until we reach the end of the streak
+        /// We will update the max streak if the current streak is longer
+        /// We will return the max streak
+        /// The time complexity is O(n), where n is the length of the input array
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
         public static int Execute(int[] nums)
         {
             // Short-circuit if the input array is empty

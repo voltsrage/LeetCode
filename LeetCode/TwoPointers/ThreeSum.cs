@@ -8,6 +8,16 @@ namespace LeetCode.TwoPointers
 {
     public class ThreeSum
     {
+        /// <summary>
+        /// The logic is to find all unique triplets in the array that sum up to zero
+        /// We will sort the array
+        /// We will iterate through the array
+        /// We will use two pointers to find the other two numbers that sum up to the negative of the current number
+        /// We will skip duplicates
+        /// The time complexity is O(n^2), where n is the number of elements in the array
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
         public IList<IList<int>> Execute(int[] nums)
         {
             var result = new List<IList<int>>();

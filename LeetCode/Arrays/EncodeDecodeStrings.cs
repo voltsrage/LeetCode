@@ -8,6 +8,16 @@ namespace LeetCode.Arrays
 {
     public class EncodeDecodeStrings
     {
+        /// <summary>
+        /// The logic behind this solution is to encode a list of strings into a single string
+        /// We will use a delimiter to separate the length of each string from the string itself
+        /// We will iterate through the list of strings and append the length, delimiter, and string to the result string
+        /// We will decode the encoded string by extracting the length of each string and constructing the string based on the length
+        /// We will return the list of strings
+        /// The time complexity for encoding is O(n), where n is the number of strings
+        /// </summary>
+        /// <param name="strs"></param>
+        /// <returns></returns>
         public static string Encode(IList<string> strs)
         {
             var resultStr = new StringBuilder();
@@ -42,6 +52,19 @@ namespace LeetCode.Arrays
             return result;
         }
 
+        /// <summary>
+        /// Extract the length of the next string
+        /// The length is followed by a delimiter
+        /// The delimiter is "#"
+        /// Example: "4#same5#pound"
+        /// The length of the first string is 4
+        /// The length of the second string is 5
+        /// The delimiter is "#"
+        /// The function will return the length of the string and the index of the delimiter
+        /// </summary>
+        /// <param name="str"></param>
+        /// <param name="currentIndex"></param>
+        /// <returns></returns>
         private static (int, int) GetStringLength(string str, int currentIndex)
         {
             var result = 0;
@@ -57,6 +80,14 @@ namespace LeetCode.Arrays
             return (result, j);
         }
 
+        /// <summary>
+        /// Construct the word based on the extracted length
+        /// The function will return the constructed word and the new index
+        /// </summary>
+        /// <param name="s"></param>
+        /// <param name="k"></param>
+        /// <param name="length"></param>
+        /// <returns></returns>
         private static (string, int) ConstructWord(string s, int k, int length)
         {
             var resultStr = new StringBuilder();

@@ -8,6 +8,15 @@ namespace LeetCode.TwoPointers
 {
     public class IsPalindrome
     {
+        /// <summary>
+        /// The logic behind this solution is to use two pointers to compare characters from the left and right of the string
+        /// We will skip non-alphanumeric characters and compare the characters
+        /// If the characters are not equal, we return false
+        /// If we reach the middle of the string without finding any unequal characters, we return true
+        /// The time complexity is O(n), where n is the length of the string
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
         public static bool Execute(string s)
         {
             if(s.Length == 0) return true;
