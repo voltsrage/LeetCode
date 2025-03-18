@@ -16,6 +16,7 @@ namespace LeetCode.SlidingWindow
         /// If the current price is greater than the minimum price, we will calculate the profit and update the maximum profit
         /// We will return the maximum profit
         /// The time complexity is O(n), where n is the length of the prices array
+        /// The space complexity is O(1)
         /// </summary>
         /// <param name="prices"></param>
         /// <returns></returns>

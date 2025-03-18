@@ -9,32 +9,34 @@ namespace LeetCode.Greedy
     public class JumpGame
     {
         /// <summary>
-        /// The logic is to loop through the array and keep track of the maxIndex
-        /// The maxIndex is the maximum index that can be reached
+        /// Logic is to loop through the array starting from the last element
+        /// Check if the current element plus the current index is greater than or equal to the goal
+        /// If it is greater than or equal to the goal, then the goal is the current index
+        /// If the goal is 0, then return true
+        /// If the goal is not 0, then return false
         /// The time complexity is O(n) where n is the number of elements in the array
+        /// The space complexity is O(1)
         /// </summary>
         /// <param name="nums"></param>
         /// <returns></returns>
         public static bool Execute(int[] nums)
         {
-            // Initialize the maxIndex with the first element of the array
-            int maxIndex = nums[0];
+            // Set the goal to the last index of the array, since we want to reach the last index
+            var goal = nums.Length - 1;
 
-            // Loop through the array starting from the second element
-            for (int i = 1; i < nums.Length; i++)
+            // Loop through the array starting from the last element
+            for (int i = nums.Length - 1; i >= 0; i--) 
             {
-                // Check if the current index is greater than the maxIndex
-                // If it is greater, then return false
-                if (i > maxIndex)
+                // Check if the current element plus the current index is greater than or equal to the goal
+                // If it is greater than or equal to the goal, then the goal is the current index
+                if (nums[i] + i > goal)
                 {
-                    return false;
+                    goal = i;
                 }
-                // Check if the sum of the current index and the current element is greater than the maxIndex
-                // If it is greater, then the sum of the current index and the current element is the new maxIndex
-                maxIndex = Math.Max(maxIndex, i + nums[i]);
             }
-            // Return true
-            return true;
+
+            // Check if the goal is 0
+            return goal == 0;
         }
     }
 }

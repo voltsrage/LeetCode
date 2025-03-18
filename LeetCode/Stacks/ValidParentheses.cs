@@ -19,6 +19,7 @@ namespace LeetCode.Stacks
         /// If the current character is neither an opening nor closing symbol, we will return false
         /// If the stack is empty, all symbols have pairs, so we will return true
         /// The time complexity is O(n), where n is the length of the input string
+        /// The space complexity is O(n), where n is the length of the input string
         /// </summary>
         /// <param name="input"></param>
         /// <returns></returns>

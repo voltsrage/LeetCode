@@ -17,6 +17,7 @@ namespace LeetCode.SlidingWindow
         /// We will calculate the max length and increment the right pointer.
         /// We will return the max length.
         /// Time complexity: O(n) where n is the length of the string
+        /// Space complexity: O(1) since the dictionary will have at most 26 characters
         /// </summary>
         /// <param name="s"></param>
         /// <param name="k"></param>

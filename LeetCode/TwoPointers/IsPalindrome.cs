@@ -14,6 +14,7 @@ namespace LeetCode.TwoPointers
         /// If the characters are not equal, we return false
         /// If we reach the middle of the string without finding any unequal characters, we return true
         /// The time complexity is O(n), where n is the length of the string
+        /// The space complexity is O(1)
         /// </summary>
         /// <param name="s"></param>
         /// <returns></returns>

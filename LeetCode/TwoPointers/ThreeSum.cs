@@ -15,6 +15,7 @@ namespace LeetCode.TwoPointers
         /// We will use two pointers to find the other two numbers that sum up to the negative of the current number
         /// We will skip duplicates
         /// The time complexity is O(n^2), where n is the number of elements in the array
+        /// The space complexity is O(1)
         /// </summary>
         /// <param name="nums"></param>
         /// <returns></returns>
