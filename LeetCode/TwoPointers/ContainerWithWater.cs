@@ -15,6 +15,7 @@ namespace LeetCode.TwoPointers
         /// We will update the maximum area if the current area is greater
         /// We will move the pointer with the smaller vertical line towards the other pointer
         /// The time complexity is O(n), where n is the number of vertical lines
+        /// The space complexity is O(1)
         /// </summary>
         /// <param name="height"></param>
         /// <returns></returns>

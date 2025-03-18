@@ -17,6 +17,7 @@ namespace LeetCode.SlidingWindow
         /// We will increment the right pointer.
         /// We will return the max length.
         /// Time complexity: O(n) where n is the length of the string
+        /// The space complexity is O(min(n, m)), where n is the length of the string and m is the size of the character set
         /// </summary>
         /// <param name="s"></param>
         /// <returns></returns>
